@@ -1,5 +1,9 @@
 test.md
 
+# Nix
+.pre-commit-config.yaml
+/result
+
 # Logs
 logs
 *.log
